@@ -1,4 +1,4 @@
-# k6 Performance Testing - Cars API
+# Testes de Performance em API utilizando k6
 
 Suite de testes de performance e API para um serviço de veículos mockado com WireMock, utilizando o [k6](https://k6.io/) como framework de testes de carga.
 
